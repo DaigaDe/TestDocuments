@@ -1,0 +1,89 @@
+﻿es esmu teksts,
+"Web Pages
+Two extensions are standard for web pages: .html and .htm. There's no difference between them, and you can use either on most web servers.
+
+As the original extension for HTML pages on Unix web hosting machines, .html indicates a file that uses HTML (HyperText Markup Language) or XHTML (EXtensible HyperText Markup Language).
+
+Windows/DOS required three-character file extensions, which gave rise to the .htm extension. This also references HTML and XHTML files and can be used on any web server, regardless of the operating system.
+
+The default page in a directory on most web servers typically has an index.htm or index.html extension. Visitors to your website don't have to enter either of these two extensions in the address bar, as long as you've given the home page one of them. For example, http://thoughtco.com/index.htm goes to the same place as http://thoughtco.com.",Images
+,
+,"The most common types of image files online are GIF, JPG, and PNG. All browsers can display them, and web designers use the format that's best for their particular applications."
+,
+,GIF
+,
+,"GIF (graphic interchange format) is a lossless format first developed by CompuServe for both animated and static images. It works best for images with flat colors and short animated snippets. It offers the ability to index colors to make sure that they contain only web-safe colors (or an otherwise small palette of colors), keeping file size small."
+,
+,JPG
+,
+,"The JPG (aka JPEG) format was created by the Joint Photographic Experts Group (hence, the acronym) for photographic images. If an image has photographic qualities without expanses of flat color, it is well suited to this file format. A photograph saved with the .jpg or .jpeg extension is typically compressed, yielding a smaller file size than a .gif file."
+,
+,PNG
+,
+,"The PNG (Portable Network Graphic) format was made for the web, with better compression, color, and transparency than GIF files. PNGs don’t have to have the .png extension, but that's how you'll most often see them."
+,
+,Scripts
+,
+,"Scripts are files that activate dynamic actions on websites. There are many types, but you'll see the following most often."
+,
+,.js (JavaScript)
+,
+,"You can load JavaScript files into the web page itself, or you can place JavaScript in an external file and call it from there. If you write your JavaScript into the web page, you won't see the .js extension, because it's part of the HTML file."
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,Degui Adil / EyeEm / Getty Images
+,
+,.java or .class
+,
+,"These two extensions are often associated with Java programs. Although you probably won't come across a .java or .class extension on a web page, these files are often used to generate Java applets for web pages."
