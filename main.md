@@ -1,3 +1,1 @@
-Reiz dzīvoja Sarkangalvīte. Viņai bija slima vecmāmiņa.
-
-Vilks nemaz nav tik ļauns, kā par viņu raksta pasakās. Viņam nav daudz draugu.
+Iepriekš tika ziņots, ka ministrijas strādā pie steidzamiem pasākumiem, lai nepazaudētu iespēju izmantot vairāk nekā 500 miljonus eiro no ES fondiem, liecina informatīvais ziņojums par ES fondu un Atveseļošanas fonda (AF) plāna ieviešanas statusu 2023. gada decembrī – 2024. gada janvārī. 
