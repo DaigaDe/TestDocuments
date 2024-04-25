@@ -1,0 +1,49 @@
+# Saldējums
+123
+
+#### URL:https://lv.wikipedia.org/wiki/Sald%C4%93jums
+
+[![](https://upload.wikimedia.org/wikipedia/commons/3/31/Ice_Cream_dessert_02.jpg)](https://lv.wikipedia.org/wiki/Att%C4%93ls:Ice_Cream_dessert_02.jpg)
+
+Saldējuma deserts
+
+**Saldējums** ir uzputots un saldēts pārtikas produkts, ko pamatā gatavo no [piena](https://lv.wikipedia.org/wiki/Piens "Piens"), [saldā krējuma](https://lv.wikipedia.org/wiki/Saldais_kr%C4%93jums "Saldais krējums"), kā arī [augļu](https://lv.wikipedia.org/wiki/Aug%C4%BCi "Augļi") un [ogu](https://lv.wikipedia.org/wiki/Ogas "Ogas") [sulas](https://lv.wikipedia.org/wiki/Sula "Sula") vai [biezeņa](https://lv.wikipedia.org/w/index.php?title=Biezenis&action=edit&redlink=1 "Biezenis (vēl nav uzrakstīts)"). Kā piedevas saldējumam var pievienot dažādas [garšvielas](https://lv.wikipedia.org/wiki/Gar%C5%A1vielas "Garšvielas"), svaigus vai žāvētus augļus, [riekstus](https://lv.wikipedia.org/wiki/Rieksti "Rieksti"), [olas](https://lv.wikipedia.org/wiki/Olas "Olas"), [olu pulveri](https://lv.wikipedia.org/w/index.php?title=Olu_pulveris&action=edit&redlink=1 "Olu pulveris (vēl nav uzrakstīts)"), [kafiju](https://lv.wikipedia.org/wiki/Kafija "Kafija"), [kakao](https://lv.wikipedia.org/wiki/Kakao "Kakao"), [šokolādi](https://lv.wikipedia.org/wiki/%C5%A0okol%C4%81de "Šokolāde"), [iesalu](https://lv.wikipedia.org/wiki/Iesals "Iesals"), [vanilīnu](https://lv.wikipedia.org/w/index.php?title=Vanil%C4%ABns&action=edit&redlink=1 "Vanilīns (vēl nav uzrakstīts)"), [kanēli](https://lv.wikipedia.org/wiki/Kan%C4%93lis "Kanēlis"), [citronskābi](https://lv.wikipedia.org/wiki/Citronsk%C4%81be "Citronskābe") u.c. Lai saldējumam būtu viendabīga konsistence un ražošanas laikā neveidotos lieli [ledus](https://lv.wikipedia.org/wiki/Ledus "Ledus") kristāli, tiem pievieno [stabilizatorus](https://lv.wikipedia.org/w/index.php?title=Stabilizatori&action=edit&redlink=1 "Stabilizatori (vēl nav uzrakstīts)"), no kuriem izplatītākie ir [agars](https://lv.wikipedia.org/w/index.php?title=Agars&action=edit&redlink=1 "Agars (vēl nav uzrakstīts)"), [algināti](https://lv.wikipedia.org/w/index.php?title=Algin%C4%81ti&action=edit&redlink=1 "Algināti (vēl nav uzrakstīts)"), [karagenīns](https://lv.wikipedia.org/w/index.php?title=Karagen%C4%ABns&action=edit&redlink=1 "Karagenīns (vēl nav uzrakstīts)"), [želatīns](https://lv.wikipedia.org/wiki/%C5%BDelat%C4%ABns "Želatīns"), [ciete](https://lv.wikipedia.org/wiki/Ciete "Ciete") un [nātrija kazeināti](https://lv.wikipedia.org/w/index.php?title=N%C4%81trija_kazein%C4%81ts&action=edit&redlink=1 "Nātrija kazeināts (vēl nav uzrakstīts)").[\[1\]](#cite_note-1)
+
+Vēsture
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Pirmās norādes par saldētu ēdienu izgatavošanu no [ūdens bifeļu](https://lv.wikipedia.org/wiki/%C5%AAdens_bifelis "Ūdens bifelis") piena atrodamas [Tanu dinastijas](https://lv.wikipedia.org/wiki/Tanu_dinastija "Tanu dinastija") laikā [Senajā Ķīnā](https://lv.wikipedia.org/wiki/Sen%C4%81_%C4%B6%C4%ABna "Senā Ķīna"). [Viduslaiku](https://lv.wikipedia.org/wiki/Viduslaiki "Viduslaiki") [Eiropā](https://lv.wikipedia.org/wiki/Eiropa "Eiropa") saldējums esot parādījies, kad [sorbeta](https://lv.wikipedia.org/wiki/Sorbets "Sorbets") (šerbeta) saldēšanas recepti no sava Ķīnas ceļojuma atvedis [Marko Polo](https://lv.wikipedia.org/wiki/Marko_Polo "Marko Polo").
+
+18\. gadsimtā [Anglijā](https://lv.wikipedia.org/wiki/Anglija "Anglija") saldējumu sāka izgatavot no piena produktiem. Pirmo saldējuma rūpnīcu atvēra 1851. gadā [Baltimorā](https://lv.wikipedia.org/wiki/Baltimora "Baltimora") [ASV](https://lv.wikipedia.org/wiki/ASV "ASV").[\[2\]](#cite_note-2)
+
+Saldējuma porcija
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ASV saldējumam var būt šādas sastāvdaļas
+
+*   Vairāk kā 10% [piena tauku](https://lv.wikipedia.org/w/index.php?title=Piena_tauki&action=edit&redlink=1 "Piena tauki (vēl nav uzrakstīts)") un parasti 10% līdz 16% (var būt pat augstāk) parasto [tauku](https://lv.wikipedia.org/wiki/Tauki "Tauki")
+*   No 9% līdz 12% piena beztauku sastāvdaļu ([olbatumvielas](https://lv.wikipedia.org/w/index.php?title=Olbatumvielas&action=edit&redlink=1 "Olbatumvielas (vēl nav uzrakstīts)"), [laktoze](https://lv.wikipedia.org/wiki/Laktoze "Laktoze") u.c.)
+*   No 12% līdz 16% [saldvielas](https://lv.wikipedia.org/w/index.php?title=Saldvielas&action=edit&redlink=1 "Saldvielas (vēl nav uzrakstīts)"), kas parasti ir [saharozes](https://lv.wikipedia.org/wiki/Saharoze "Saharoze") un [glikozes](https://lv.wikipedia.org/wiki/Glikoze "Glikoze") bāzes kukurūzas sīrupa saldvielu kombinācija
+*   No 0,2% līdz 0,5% [stabilizatoru](https://lv.wikipedia.org/w/index.php?title=Stabilizatori&action=edit&redlink=1 "Stabilizatori (vēl nav uzrakstīts)") un [emulgatoru](https://lv.wikipedia.org/wiki/Emulgatori "Emulgatori")
+*   No 55% līdz 64% [ūdens](https://lv.wikipedia.org/wiki/%C5%AAdens "Ūdens"), kas ir no piena un pārējām saldējuma sastāvdaļām
+
+Šīs sastāvdaļas tiek procentuāli aprēķinātas pēc saldējuma svara. Ja tiek runāts par pareiza uztura jautājumiem, saldējuma sastāvdaļu procentuālais sadalījums ir vairāk kā būtisks. Jāatzīst, ka saldējums noteikti nav no tiem produktiem, kas satur vismazāk [kaloriju](https://lv.wikipedia.org/wiki/Kalorijas "Kalorijas"). Pat tā sauktie maz kaloriju saldējumi satur daudz kaloriju, piemēram, Bena un Džerija beztauku vaniļas [īriss](https://lv.wikipedia.org/w/index.php?title=%C4%AAriss&action=edit&redlink=1 "Īriss (vēl nav uzrakstīts)") satur 150 kalorijas (630kJ) uz pus tasi tā lielā [cukura](https://lv.wikipedia.org/wiki/Cukurs "Cukurs") sastāva dēļ.[\[4\]](#cite_note-4)
+
+Saldējuma konuss
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mis Māršalas Pavārgrāmatā, kas tika izdota 1888. gadā, tiek apstiprināts, ka saldējumu var pasniegt [konusā](https://lv.wikipedia.org/wiki/Konuss "Konuss")[\[5\]](#cite_note-5), taču ideja par to radusies jau pirms tās. Agnese Māršala bija sava laika slavena recepšu pierakstītāja. Viņa arī palīdzēja popularizēt saldējumu. Viņa patentēja un izgatavoja saldējuma veidotāju un bija pirmā, kas ierosināja izmantot šķīdinātās gāzes, lai sasaldētu saldējumu.
+
+Uzticami pierādījumi vēsta, ka saldējumi konusos tika pasniegti jau 19. gadsimtā, un to popularitāte tika būtiski palielināta svētā Lūisa pasaules gadatirgū [1904\. gadā](https://lv.wikipedia.org/wiki/1904._gads "1904. gads"). Balstoties uz leģendu, šajā gadatirgū saldējuma tirgotājiem beigušās kartona kastes, kurās atradušies saldējumi, tāpēc viņi vairs nespēja pārdot saldējumus. Netālu no saldējumu stenda atradies [Sīrijas](https://lv.wikipedia.org/wiki/S%C4%ABrija "Sīrija") vafeļu stends, kuram ar pārdošanu nevedās, jo karstā laikā neviens [vafeles](https://lv.wikipedia.org/w/index.php?title=Vafeles&action=edit&redlink=1 "Vafeles (vēl nav uzrakstīts)") pirkt nevēlējās. Vafeļu tirgotāji, redzot neveiksmi un saprotot, ka var palīdzēt un piepelnīties, piedāvāja veidot konusus, ierullējot saldējumu vafelēs. Jaunais produkts tika veiksmīgi pārdots, bet pārējie pārdevēji, kas uzzināja par šo ideju, steidzās to īstenot arī savā pārdošanā.[\[6\]](#cite_note-6)[\[7\]](#cite_note-7)
+
+Atsauces
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.   Lilita Ozola, [Inga Ciproviča](https://lv.wikipedia.org/wiki/Inga_Ciprovi%C4%8Da "Inga Ciproviča"). [_Piena pārstrādes tehnoloģija_](https://web.archive.org/web/20190902065147/http://gramatas.lndb.lv/periodika2-viewer/view/index-dev.html#panel:pp%7cissue:/g_001_0302018489%7cpage:96). Jelgava : [LLU PTF](https://lv.wikipedia.org/wiki/Latvijas_Lauksaimniec%C4%ABbas_universit%C4%81tes_P%C4%81rtikas_tehnolo%C4%A3ijas_fakult%C4%81te "Latvijas Lauksaimniecības universitātes Pārtikas tehnoloģijas fakultāte"), 2002. 92.—94. lpp. [ISBN](https://lv.wikipedia.org/wiki/ISBN "ISBN") [9984-596-37-0](https://lv.wikipedia.org/wiki/Special:BookSources/9984-596-37-0 "Special:BookSources/9984-596-37-0"). Arhivēts no [oriģināla](http://gramatas.lndb.lv/periodika2-viewer/view/index-dev.html?#panel:pp%7cissue:/g_001_0302018489%7cpage:96), laiks: 2019. gada 2. septembrī. Skatīts: 2019. gada 24. augustā.
+2.   Inga Bajāre. [«Kā radies saldējums? Kā saldējumi atšķiras?»](http://www.la.lv/ka-radies-saldejums-ka-saldejumi-atskiras-2/). [Latvijas Avīze](https://lv.wikipedia.org/wiki/Latvijas_Av%C4%ABze "Latvijas Avīze"). Skatīts: 2015. gada 13. martā.
+3.   Goff, H. Douglas. "Ice Cream Ingredients". Dairy Science and Technology Education Series. University of Guelph. Retrieved 17 May,2012
+4.   Kendall, Pat (2000-06-25). "Ice Cream - What's in a Scoop?". Colorado State University. Archived from the original on May 30, 2008. Retrieved 17 May, 2012
+5.   "The Ice House - ice trade and ice cream". Retrieved 17 May, 2012
+6.   Robin Weir's Ice Cream Cone Essay". Historicfood.com. 2004. Retrieved 17 May, 2012
+7.   "Ice Cream Cone, History of Ice Cream Cone". Whatscookingamerica.net. Retrieved 17 May, 2012
+
