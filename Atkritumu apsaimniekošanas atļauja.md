@@ -3,6 +3,7 @@
 #### URL:https://www.getlini.lv/atkritumu-apsaimniekosanas-atlauja/
 
 #### juridiska:true
+#### atkritumi:true
 
 Atkritumu apsaimniekošanas atļauja
 
