@@ -4,6 +4,7 @@
 
 
 #### juridiska:true
+#### atkritumi:true
 1. pielikums līgumam par atkritumu pieņemšanu Cieto sadzīves atkritumu poligonā “Getliņi”
 
 <a name="atkritumu apraksta un cenu lapa"></a>**Atkritumu apraksta un cenu lapa**
