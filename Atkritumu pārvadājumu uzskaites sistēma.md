@@ -3,7 +3,7 @@
 #### URL:https://www.getlini.lv/atkritumu-parvadajumu-uzskaites-sistema-apus/
 
 #### juridiska:true
-
+#### atkritumi:true
 
 Atkritumu pārvadājumu uzskaites sistēma (APUS)
 
