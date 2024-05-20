@@ -3,6 +3,7 @@
 #### URL:https://www.getlini.lv/atkritumu-pienemsana/
 #### fiziska:true
 #### juridiska:true
+#### atkritumi:true
 Atkritumu pieņemšana
 
 Poligons apsaimnieko cietos sadzīves atkritumus, bioloģiski noārdāmos atkritumus, ražošanas un būvniecības atkritumus, kas radušies [Viduslatvijas atkritumu apsaimniekošanas reģionā](https://likumi.lv/ta/id/342688-noteikumi-par-atkritumu-apsaimniekosanas-regioniem).
