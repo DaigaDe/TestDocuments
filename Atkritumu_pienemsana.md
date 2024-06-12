@@ -1,10 +1,18 @@
 # Atkritumu pieņemšana
 
 #### URL:https://www.getlini.lv/atkritumu-pienemsana/
+
 #### fiziska:true
+
 #### juridiska:true
+
 #### atkritumi:true
-Atkritumu pieņemšana
+
+#### fiziska-atkritumi:true
+
+#### juridiska-atkritumi:true
+
+## Atkritumu pieņemšana
 
 Poligons apsaimnieko cietos sadzīves atkritumus, bioloģiski noārdāmos atkritumus, ražošanas un būvniecības atkritumus, kas radušies [Viduslatvijas atkritumu apsaimniekošanas reģionā](https://likumi.lv/ta/id/342688-noteikumi-par-atkritumu-apsaimniekosanas-regioniem).
 
@@ -12,10 +20,10 @@ Poligonā “Getliņi” aizliegts ievest auto riepas, azbestu saturošus būvni
 
 ![](https://getlini.lv/wp-content/uploads/2022/06/G-aizliegts-ievest-v1.svg)
 
-Bitumenu atkritumu poligonā drīks ievest.
+Bitumenu atkritumu poligonā drīkst ievest.
+Nedrīkst ievest eļļas produktu atkritumus, eļļas filtrus, ar autoservisu radītiem atkritumiem piesārņotus absorbentus – papīrs, cimdi, apģērbs, nolietoti akumulatori u.c.
 
-
-Atkritumu šķirošana
+## Atkritumu šķirošana
 
 Pirms atkritumu apglabāšanas vai pārstrādes, notiek juridisko personu nodoto cieto sadzīves atkritumu šķirošana. Poligonā tiek apglabāti tādi atkritumi, kas nav derīgi tālākai pārstrādei.
 
@@ -27,7 +35,7 @@ Atkritumu šķirošanu nodrošina poligonā esošā šķirošanas rūpnīca, kur
 4) melno un krāsaino metālu saturoši atkritumi;  
 5) vieglā plastmasa, tekstils, papīrs (no atkritumiem iegūta kurināmā ražošanai).
 
-Bioloģisko atkritumu pārstrāde
+## Bioloģisko atkritumu pārstrāde
 
 Bioloģisko atkritumu pārstrāde fermentācijas tuneļos ļauj iegūt tehnisko kompostu un biogāzi, kas tiek izmantota energoblokā elektroenerģijas un siltumenerģijas ražošanai. Komplekss ir lielākais šāda veida atkritumu pārstrādes objekts Baltijas valstīs. Plānots, ka kompleksā tiks pārstrādātas 125 000 tonnas bioloģisko atkritumu gadā, kā rezultātā tiks saražotas līdz 100 000 tonnām komposta.
 
@@ -40,21 +48,25 @@ Bioloģiski noārdāmo atkritumu savākšanai drīkst izmantot:
 
 ![](https://www.getlini.lv/wp-content/uploads/2023/11/Majaslapai-300x134.jpg)
 
-Būvgružu pārstrāde
+## Būvgružu pārstrāde
 
 Būvgruži tiek smalcināti, iegūstot drupinātu būvgružu šķembas un šķembu atsijas, kuras ir iespējams iegādāties jebkurai personai. Būvgružu šķembas un šķembu atsijas ir piemērotas dažādiem būvdarbiem, piemēram, ceļu pamatnes sagatavošanai, pagaidu ceļu būvniecībai, gājēju ietvju, ceļu ar mazu ikdienas slodzi būvniecībai un citur. Vairāk informācijas par drupinātu būvgružu iegādi – [šeit!](https://www.getlini.lv/wp-content/uploads/2023/11/Buvgruzi.pdf) (šobrīd pakalpojums nav pieejams).
 
-Atkritumu apglabāšana
+## Atkritumu apglabāšana
 
 Tie atkritumi, kurus nevar pārstrādāt jaunos materiālos, tiek apglabāti speciāli veidotā, videi drošā atkritumu apglabāšanas šūnā.
 
 Apglabājot atkritumus šūnā, tiem sadaloties, veidojas metāna gāze un notekūdeņi (infiltrāts). Metāna gāze un notekūdeņi tiek savākti, tādejādi līdz minimumam mazinot atkritumu ietekmi uz apkārtējo vidi.
 
-****
+## Jautājumi
+#### juridiska-atkritumi:false
 **[Kāds ir atkritumu pieņemšanas darba laiks?](https://www.getlini.lv/atkritumu-pienemsana/"%20\l%20"tab-15f9b576-1)**
-
 **Fiziskām personām** katru dienu 7:00 – 17:00 (ieskaitot brīvdienas un svētku dienas).
 
+#### juridiska-atkritumi:true
+#### fiziska-atkritumi:false
+
+**[Kāds ir atkritumu pieņemšanas darba laiks?](https://www.getlini.lv/atkritumu-pienemsana/"%20\l%20"tab-15f9b576-1)**
 **Juridiskām personām:**
 
 Apglabājamo atkritumu nodošana
@@ -71,8 +83,14 @@ Pakalpojuma saņemšanai jānoslēdz līgums – [uzzināt vairāk](https://getl
 
 **Juridiskām personām** pirms atkritumu nodošanas poligonā obligāti ir jānoslēdz līgums – [uzzināt vairāk!](https://www.getlini.lv/atkritumu-pienemsana/juridiskam-personam/)
 
+#### fiziska-atkritumi:true
+#### juridiska-atkritumi:false
+
+[**Vai nepieciešams slēgt līgumu par atkritumu nodošanu?**](https://www.getlini.lv/atkritumu-pienemsana/#tab-15f9b576-2)
+
 **Fiziskām personām** līgums par atkritumu nodošanu netiek slēgts – [uzzināt vairāk!](https://www.getlini.lv/atkritumu-pienemsana/fiziskam-personam/)
 
+#### juridiska-atkritumi:true
 [**Kādi atkritumi tiek pieņemti no juridiskām un fiziskām personām?**](https://www.getlini.lv/atkritumu-pienemsana/#tab-15f9b576-3)
 
 No **juridiskām personām** tiek pieņemtas visas cietas, nebīstamas atkritumu klases.
@@ -111,3 +129,5 @@ Getliņu poligons nodrošina tikai atkritumu apglabāšanu un pārstrādi. SIA �
 2. bioloģiski noārdāmās plastmasas maisos, kuri ir piemēroti kompostēšanai un kuriem ir atbilstošs marķējums (piemēri zemāk, bet var būt arī citi, jo iedzīvotāji var lietot arī citās valstīs iepirktus maisiņus ar tām raksturīgajiem marķējumiem).
 
 Bioloģisko noārdāmos atkritumus nedrīkst nodot maisos ar norādi “industrial compostable”, jo tie nav piemēroti pārstrādes procesam fermentācijas tuneļos.
+
+Nē, šīferi pie mums nodot un ievest nedrīkst
