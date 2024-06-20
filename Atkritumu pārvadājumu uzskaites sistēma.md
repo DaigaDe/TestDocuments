@@ -1,11 +1,21 @@
-# Atkritumu pārvadājumu uzskaites sistēma
-
+# APUS
 #### URL:https://www.getlini.lv/atkritumu-parvadajumu-uzskaites-sistema-apus/
 
-#### juridiska:true
-#### atkritumi:true
+Atkritumu pieņemšana
 
-Atkritumu pārvadājumu uzskaites sistēma (APUS)
+#### URL: https://www.getlini.lv/atkritumu-pienemsana/
+
+
+#### APUSURL: https://www.getlini.lv/atkritumu-parvadajumu-uzskaites-sistema-apus/
+
+Atkritumu pārvadājumu uzskaites sistēma
+
+#### URL: https://www.getlini.lv/atkritumu-parvadajumu-uzskaites-sistema-apus/
+
+
+
+
+# Atkritumu pārvadājumu uzskaites sistēma (APUS)
 
 Sākot ar 2021.gada 1.jūliju spēkā  stājušies Ministru kabineta 18.02.2021. noteikumi Nr. 113 [_“Atkritumu un to pārvadājumu uzskaites kārtība”_](https://likumi.lv/doc.php?id=321151&version_date=23.02.2021) _(turpmāk – MK noteikumi Nr.113)_, kas nosaka kārtību, kādā atkritumu radītājs, apsaimniekotājs un atkritumu saņēmējs nodrošina radīto, apsaimniekoto vai saņemto atkritumu pārvadājumu uzskaiti, t.sk. atkritumu pārvadājuma reģistrācijas kartes–pavadzīmes (MK noteikumu Nr.113 [3\. pielikums](https://www.getlini.lv/wp-content/uploads/2022/06/P3.docx) ) aizpildīšanas kārtību atkritumu pārvadājumu uzskaites valsts informācijas sistēmā (APUS).
 
@@ -48,3 +58,12 @@ _\*_ _uzņēmums, kurš ir noslēdzis Līgumu par atkritumu pieņemšanu CSA pol
 2.  Par APUS sistēmas darbību un lietošanu: [3atkritumi@lvgmc.lv](mailto:3atkritumi@lvgmc.lv),  informatīvais tālrunis 67032620
 
 [Biežāk uzdotie jautājumi par atkritumu un to pārvadājumu uzskaites kārtību](https://www.varam.gov.lv/lv/biezak-uzdotie-jautajumi-par-atkritumu-un-parvadajumu-uzskaites-kartibu)
+
+Juridisko personu atkritumu pārvadājumu APUS pavadzīmes
+- Getliņi Eko uzsāk pildīt APUS pavadzīmes par ievesto atkritumu reisiem tikai tiem komersantiem, kuri, veidojot caurlaidi, norāda, ka tie ir apsaimniekotāji, kuriem ir noslēgts līgums ar pašvaldību vai objektam, no kura tiek izvesti atkritumi, būvniecības informācijas sistēmā reģistrēta būvniecības lieta (BIS) vai arī komersants ir tiešais atkritumu radītājs. 
+- Komersanti uzsāk un nosūta pavadzīmes saskaņošanai Getliņi EKO gadījumos, ja tie neatbilst augstāk minētajiem kritērijiem.
+- Katram reisam ir jāveido atsevišķa pavadzīme
+- Komersantiem par nešķirotu sadzīves atkritumu pārvadājumiem (AK 200301) APUS pavadzīme NAV jāveido
+Par tiešo radītāju reisiem APUS pavadzīmes iesūta Getliņi EKO.
+
+Lai kļūtu par APUS lietātāju jānoslēdz līgums ar Latvijas Vides, ģeoloģijas un meteoroloģijas centru (LVĢMC). 
