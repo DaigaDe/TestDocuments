@@ -27,13 +27,13 @@ Informācija nepieciešama norādīšanai APUS atkritumu pārvadājumu reģistr�
 
 ## 1. Līguma priekšmets
 
- 1.1. Piegādātājs nodod, un Pieņēmējs pieņem no Piegādātāja apglabāšanai vai pārstrādei cietos sadzīves atkritumus un cita veida cietos atkritumus, kuru pieņemšana ir atļauta saskaņā ar normatīvajiem aktiem (turpmāk līguma tekstā – CSA), atbilstoši šī līguma nosacījumiem un pielikumam Nr. 1 „Atkritumu apraksta un cenu lapa”, kurus Piegādātājs ar savu transportu nogādājis Cieto sadzīves atkritumu poligonā “Getliņi” (turpmāk līguma tekstā – Poligons), Kaudzīšu ielā 57, Rumbulā, Stopiņu pagastā, Ropažu novadā.
+### 1.1. Piegādātājs nodod, un Pieņēmējs pieņem no Piegādātāja apglabāšanai vai pārstrādei cietos sadzīves atkritumus un cita veida cietos atkritumus, kuru pieņemšana ir atļauta saskaņā ar normatīvajiem aktiem (turpmāk līguma tekstā – CSA), atbilstoši šī līguma nosacījumiem un pielikumam Nr. 1 „Atkritumu apraksta un cenu lapa”, kurus Piegādātājs ar savu transportu nogādājis Cieto sadzīves atkritumu poligonā “Getliņi” (turpmāk līguma tekstā – Poligons), Kaudzīšu ielā 57, Rumbulā, Stopiņu pagastā, Ropažu novadā.
 
-1.2. Piegādātajam ir tiesības nodot Pieņēmējam apglabāšanai piegādātos CSA katru dienu no plkst. 7.00 līdz 22.00. Bioloģiskos atkritumus un citus pārstrādei izmantojamos atkritumus, atbilstoši līguma 1. pielikumam „Atkritumu apraksta un cenu lapa”, Piegādātajam ir tiesības nodot Pieņēmējam katru darba dienu no plkst. 8.30 līdz 16.30.
+### 1.2. Piegādātajam ir tiesības nodot Pieņēmējam apglabāšanai piegādātos CSA katru dienu no plkst. 7.00 līdz 22.00. Bioloģiskos atkritumus un citus pārstrādei izmantojamos atkritumus, atbilstoši līguma 1. pielikumam „Atkritumu apraksta un cenu lapa”, Piegādātajam ir tiesības nodot Pieņēmējam katru darba dienu no plkst. 8.30 līdz 16.30.
 
-1.3. Piegādātājs atbild par to, ka piegādāto atkritumu sastāvā nebūs atkritumi, kuri saskaņā ar MK noteikumiem nr. 302 “Noteikumi par atkritumu klasifikatoru un īpašībām, kuras padara atkritumus bīstamus” tiek klasificēti kā bīstami atkritumi, kā arī tādi, kurus aizliegts pieņemt apglabāšanai saskaņā ar MK noteikumi Nr. 1032 “Atkritumu poligonu ierīkošanas, atkritumu poligonu un izgāztuvju apsaimniekošanas, slēgšanas un rekultivācijas noteikumi” 34. punktu.
+### 1.3. Piegādātājs atbild par to, ka piegādāto atkritumu sastāvā nebūs atkritumi, kuri saskaņā ar MK noteikumiem nr. 302 “Noteikumi par atkritumu klasifikatoru un īpašībām, kuras padara atkritumus bīstamus” tiek klasificēti kā bīstami atkritumi, kā arī tādi, kurus aizliegts pieņemt apglabāšanai saskaņā ar MK noteikumi Nr. 1032 “Atkritumu poligonu ierīkošanas, atkritumu poligonu un izgāztuvju apsaimniekošanas, slēgšanas un rekultivācijas noteikumi” 34. punktu.
 
-1.4. Par CSA pieņemšanu apglabāšanai vai pārstrādei Piegādātājs veic samaksu Pieņēmējam šī līguma 5. punktā paredzētajā kārtībā.
+### 1.4. Par CSA pieņemšanu apglabāšanai vai pārstrādei Piegādātājs veic samaksu Pieņēmējam šī līguma 5. punktā paredzētajā kārtībā.
 
 ## 2. CSA pieņemšanas un uzskaites noteikumi
 
